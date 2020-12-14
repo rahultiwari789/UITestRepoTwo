@@ -2,4 +2,8 @@ My first file for test.
 Test for modification.
 Test for modification through Visual studio Code application.
 Doing changes of Sat.
+<<<<<<< HEAD
+Test test, MonTest.
+=======
 Changes into firstFile through cmd.
+>>>>>>> master
