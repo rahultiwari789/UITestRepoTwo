@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+test for second
+=======
 Test For second File.
 from Visula studio.
 Modifie second file form VSC.
 Doing changes on Sat through VS.
+<<<<<<< HEAD
 Doing changes through cmd prompt in hotfix branch in MySecondFile.TestVS1
+=======
+Doing changes through cmd prompt in hotfix branch in MySecondFile.
+>>>>>>> 2e1c5a91f71b740ffcf5c0fc1b5b62871ac9d78f
+>>>>>>> master
